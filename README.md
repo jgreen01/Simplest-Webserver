@@ -3,7 +3,7 @@ Node.js webserver written in 3 lines of code.
 
 Install 'connect' and 'serve-static' after cloning:
 ```
-npm install connect serve-static
+npm install
 ```
 To start the server run the command:
 ```
