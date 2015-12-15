@@ -1,0 +1,31 @@
+{
+  "name": "simplest-webserver",
+  "version": "1.0.0",
+  "description": "The shortest node webserver you can find.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jgreen82/Simplest-Webserver.git"
+  },
+  "keywords": [
+    "web",
+    "server",
+    "easy",
+    "short",
+    "simple"
+  ],
+  "author": "Jon Green",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jgreen82/Simplest-Webserver/issues"
+  },
+  "homepage": "https://github.com/jgreen82/Simplest-Webserver#readme",
+  "dependencies": {
+    "connect": "^3.4.0",
+    "serve-static": "^1.10.0"
+  }
+}
